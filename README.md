@@ -8,3 +8,4 @@ Assignments of the ML Course at IIT Gandhinagar
 5. KNN
 6. Naive Bayes and Active Learning
 7. Support Vector Machines
+8. Logistic Regression and Neural Networks
